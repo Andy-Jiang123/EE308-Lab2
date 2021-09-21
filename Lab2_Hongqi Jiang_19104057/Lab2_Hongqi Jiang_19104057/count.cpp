@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 using namespace std;
-
+//text file C:\Users\JHQ\Desktop\test.c
 void Count_Keywork_Switch_Case(string inputfile,int level)
 {
     ifstream srcFile(inputfile, ios::in); //open file
@@ -18,7 +18,7 @@ void Count_Keywork_Switch_Case(string inputfile,int level)
 			                "struct","switch","typedef","union","unsigned","void","volatile","while"};
 	string Case_Num = "";
 	int Case_Number = 0;
-	while (srcFile>>x)    
+	while (srcFile>>x)                    
 	{
 		y = "";
 		for (int i = 0;i < x.length(); i++)
@@ -29,8 +29,8 @@ void Count_Keywork_Switch_Case(string inputfile,int level)
 			}
 		}
 			
-		for (int a = 0; a < 32; a++)
-		{
+		for (int a = 0; a < 32; a++)         
+		{                                         
 			if (keyword[a] == y)
 			{
 					
@@ -88,13 +88,12 @@ void Count_If_Elseif(string inputfile, int level)
 
 		for (int i = 0; i < x.length(); i++)
 		{
-			if (x[i] >= 'A' && x[i] <= 'z')
+			
+			if (x[i] == 'e' || x[i] == 'f' || x[i] == 'l' || x[i] == 's' || x[i] == 'i')
 			{
-				if (x[i] == 'e' || x[i] == 'f' || x[i] == 'l' || x[i] == 's' || x[i] == 'i')
-				{
-					z += x[i];
-				}
+				z += x[i];
 			}
+			
 
 		}
 		if (z.length() >= 2 && z.substr(0, 2) == "if")
@@ -152,11 +151,6 @@ void Count_If_Elseif(string inputfile, int level)
 	
 
 }
-
-
-
-
-
 
 int main()
 {
