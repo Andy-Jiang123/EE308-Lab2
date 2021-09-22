@@ -1,5 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
+#include "../Lab2_Hongqi Jiang_19104057/count.cpp"
+
 #include <string>
 
 using namespace std;
@@ -16,7 +18,7 @@ namespace UnitTest1
 			string x;
 			x = "C:/Users/JHQ/Desktop/test.c";
 			int a = 1;
-			Assert::AreEqual("total num: 35", Count_Keywork_Switch_Case(x, a));
+			Assert::AreEqual(1, Count_Keywork_Switch_Case(x, a));
 
 
 

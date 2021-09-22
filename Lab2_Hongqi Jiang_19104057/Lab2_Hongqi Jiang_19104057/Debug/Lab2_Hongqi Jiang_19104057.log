@@ -1,7 +1,7 @@
 ﻿  count.cpp
-C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Lab2_Hongqi Jiang_19104057\count.cpp(24,20): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Lab2_Hongqi Jiang_19104057\count.cpp(89,21): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Lab2_Hongqi Jiang_19104057\count.cpp(119,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Lab2_Hongqi Jiang_19104057\count.h(25,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Lab2_Hongqi Jiang_19104057\count.h(91,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Lab2_Hongqi Jiang_19104057\count.h(121,20): warning C4018: “<”: 有符号/无符号不匹配
 LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
 count.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
   Lab2_Hongqi Jiang_19104057.vcxproj -> C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Debug\Lab2_Hongqi Jiang_19104057.exe
