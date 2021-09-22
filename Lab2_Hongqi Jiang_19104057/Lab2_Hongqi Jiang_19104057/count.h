@@ -75,7 +75,7 @@ int Count_Keywork_Switch_Case(string inputfile, int level)
 	return 1;
 }
 
-void Count_If_Elseif(string inputfile, int level)
+int Count_If_Elseif(string inputfile, int level)
 {
 	ifstream srcFile(inputfile, ios::in);
 	string x;
@@ -150,6 +150,7 @@ void Count_If_Elseif(string inputfile, int level)
 		cout << "if-else num:" << Count_Ifelse << endl;
 		cout << "if-elseif-else num:" << Count_Elseif << endl;
 	}
+	return 1;
 
 
 }

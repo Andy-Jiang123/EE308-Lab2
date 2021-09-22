@@ -18,7 +18,7 @@ namespace UnitTest1
 			string x;
 			x = "C:/Users/JHQ/Desktop/test.c";
 			int a = 1;
-			Assert::AreEqual(1, Count_Keywork_Switch_Case(x, a));
+			Assert::AreEqual(1, Count_If_Elseif(x, a));
 
 
 

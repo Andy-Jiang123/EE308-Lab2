@@ -6,7 +6,7 @@
 using namespace std;
 //text file C:\Users\JHQ\Desktop\test.c
 int Count_Keywork_Switch_Case(string inputfile, int level);
-void Count_If_Elseif(string inputfile, int level);
+int Count_If_Elseif(string inputfile, int level);
 
 
 int main()

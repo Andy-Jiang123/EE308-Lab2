@@ -1,0 +1,21 @@
+[2021-09-22 14:39:45] [info] Start Program:
+Path:"C:\\Users\\JHQ\\Desktop\\project_lab2\\Lab2_Hongqi Jiang_19104057\\Debug\\Lab2_Hongqi Jiang_19104057.exe"
+Arguments:
+Working directory: "C:\\Users\\JHQ\\Desktop\\project_lab2\\Lab2_Hongqi Jiang_19104057\\Lab2_Hongqi Jiang_19104057\\"
+Modules: Selected: C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Debug\Lab2_Hongqi Jiang_19104057.exe C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Debug\UnitTest1.dll Excluded: 
+Sources: Selected: C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Lab2_Hongqi Jiang_19104057 C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\UnitTest1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\JHQ\AppData\Local\Temp\3qrdx4ys.yuy 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-09-22 14:39:45] [info] Module: C:\Users\JHQ\Desktop\project_lab2\Lab2_Hongqi Jiang_19104057\Debug\Lab2_Hongqi Jiang_19104057.exe is selected because it matches selected pattern: 
+[2021-09-22 14:39:50] [info] ----------------------------------------------------
+[2021-09-22 14:39:50] [info] Coverage binary generated in file: C:\Users\JHQ\AppData\Local\Temp\3qrdx4ys.yuy
+[2021-09-22 14:39:50] [info] ----------------------------------------------------
